@@ -1,0 +1,13 @@
+C:\DevBuild4\GrandCircus\Extra31-58\bin\Debug\netcoreapp3.1\Extra31-58.exe
+C:\DevBuild4\GrandCircus\Extra31-58\bin\Debug\netcoreapp3.1\Extra31-58.deps.json
+C:\DevBuild4\GrandCircus\Extra31-58\bin\Debug\netcoreapp3.1\Extra31-58.runtimeconfig.json
+C:\DevBuild4\GrandCircus\Extra31-58\bin\Debug\netcoreapp3.1\Extra31-58.runtimeconfig.dev.json
+C:\DevBuild4\GrandCircus\Extra31-58\bin\Debug\netcoreapp3.1\Extra31-58.dll
+C:\DevBuild4\GrandCircus\Extra31-58\bin\Debug\netcoreapp3.1\Extra31-58.pdb
+C:\DevBuild4\GrandCircus\Extra31-58\obj\Debug\netcoreapp3.1\Extra31-58.csprojAssemblyReference.cache
+C:\DevBuild4\GrandCircus\Extra31-58\obj\Debug\netcoreapp3.1\Extra31-58.AssemblyInfoInputs.cache
+C:\DevBuild4\GrandCircus\Extra31-58\obj\Debug\netcoreapp3.1\Extra31-58.AssemblyInfo.cs
+C:\DevBuild4\GrandCircus\Extra31-58\obj\Debug\netcoreapp3.1\Extra31-58.csproj.CoreCompileInputs.cache
+C:\DevBuild4\GrandCircus\Extra31-58\obj\Debug\netcoreapp3.1\Extra31-58.dll
+C:\DevBuild4\GrandCircus\Extra31-58\obj\Debug\netcoreapp3.1\Extra31-58.pdb
+C:\DevBuild4\GrandCircus\Extra31-58\obj\Debug\netcoreapp3.1\Extra31-58.genruntimeconfig.cache
